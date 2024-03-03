@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "belajar-go-viper",
+    "version": "1.0.0",
+    "author": "4kbr"
+  },
+  "database": {
+    "show_sql": true,
+    "host": "localhost",
+    "port": 8889
+  }
+}
